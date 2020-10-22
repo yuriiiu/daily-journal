@@ -1,0 +1,11 @@
+.journal__inputs {
+    display: flex;    
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
